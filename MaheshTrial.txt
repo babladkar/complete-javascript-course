@@ -6,3 +6,5 @@ modifying this file
 again
 
 Kill BILL
+
+Creating conflict in the master brance merge scenario
